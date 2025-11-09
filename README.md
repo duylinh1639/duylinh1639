@@ -44,7 +44,7 @@
 <p>
   <img src="images/Revit icon.png" width="48px" height="48px"/>
   <img src="images/Autocad icon.png" width="48px" height="48px"/>
-  <img src="images/ASHRAE icon.png" width="48px" height="48px"/>
+  <img src="images/ASHRAE icon.png" width="65px" height="65px"/>
 
 
 </p>
