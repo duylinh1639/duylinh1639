@@ -24,7 +24,7 @@
 
 <br />
 
-<p align="center">
+<p
   <a href="https://linkedin.com/in/duylinhmep" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
@@ -41,9 +41,10 @@
 > * Standards: TCVN, ASHRAE, NFPA. </p>
 
 <br />
-<p align="center">
+<p>
   <img src="images/Revit icon.png" width="48px" height="48px"/>
   <img src="images/Autocad icon.png" width="48px" height="48px"/>
+  <img src="images/ASHRAE icon.png" width="48px" height="48px"/>
 
 
 </p>
