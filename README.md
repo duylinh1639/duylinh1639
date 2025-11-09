@@ -46,7 +46,7 @@
   <img src="images/Autocad icon.png" width="48px" height="48px"/>
   <img src="images/ASHRAE icon.png" width="65px" height="65px"/>
   <img src="images/NFPA icon.png" width="48px" height="48px"/>
-  <img src="images/TCVN icon.png" width="65px" height="65px"/>
+  <img src="images/TCVN icon.png" width="65px" height="100px"/>
 
 
 </p>
