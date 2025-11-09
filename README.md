@@ -4,14 +4,25 @@
   <h3 align="center">Work Today Heritage In Future </h3>
 </p>
 
-> ✍ I'm a M&E engineer.
+> ✍ I'm a M&E engineer.</p>
+> ✍ High sense of responsibility: Consistently deliver high-quality work on time.</p>
+> ✍ Strong work ethic: Dedicated, diligent, and focused.</p>
+> ✍ Excellent self-learning ability: Proactive in acquiring new skills and adapting quickly.</p>
+> ✍ Strong interpersonal skills: Sociable, collaborative, and effective in team coordination.</p>
+
 
 <br />
 
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
 
-## 📫 How to reach me:
+## 📫 Contact:
+</p>
+
+> ✍ Address: 1061 Pham Van Dong Street, Linh Tay Ward Thu Duc City, Ho Chi Minh City </p>
+> ✍ Email: duylinh1639@gmail.com</p>
+
+<br />
 
 <p align="center">
   <a href="https://linkedin.com/in/duylinhmep" target="_blank">
@@ -22,7 +33,14 @@
   </a>
 </p>
 
-## Skills:
+## Technical Skills:
+</p>
+
+> * BIM: Revit MEP (Advanced), Navisworks, BIM 360, Clash detection. </p>
+> * Design: AutoCAD, Revit </p>
+> * Standards: TCVN, ASHRAE, NFPA. </p>
+
+<br />
 <p align="center">
   <img src="images/Revit icon.png" width="48px" height="48px"/>
   <img src="images/Autocad icon.png" width="48px" height="48px"/>
