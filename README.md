@@ -1,4 +1,4 @@
-## About me.
+## About me:
 <h2 align="center">Hi 👋, I'm LINH</h2>
 <p align="center">
   <h3 align="center">Work Today Heritage In Future </h3>
@@ -25,7 +25,7 @@
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="[https://images.seeklogo.com/logo-png/53/1/autodesk-revit-icon-logo-png_seeklogo-538734.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
