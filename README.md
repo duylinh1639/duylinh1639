@@ -5,10 +5,6 @@
 </p>
 
 > ✍ I'm a M&E engineer.</p>
-> ✍ High sense of responsibility: Consistently deliver high-quality work on time.</p>
-> ✍ Strong work ethic: Dedicated, diligent, and focused.</p>
-> ✍ Excellent self-learning ability: Proactive in acquiring new skills and adapting quickly.</p>
-> ✍ Strong interpersonal skills: Sociable, collaborative, and effective in team coordination.</p>
 
 
 <br />
