@@ -1,27 +1,14 @@
-## About me:
-<h2 align="center">Hi 👋, I'm LINH</h2>
+<h1 align="center">Hi 👋, I'm LINH</h1>
+<h3 align="center">MEP Engineer</h3>
 <p align="center">
-  <h3 align="center">Work Today Heritage In Future </h3>
+  <a href="mailto:duylinh1639@gmail.com">
+    <img src="https://img.shields.io/badge/Email-duylinh1639%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/duylinhmep/">
+    <img src="https://img.shields.io/badge/LinkedIn-duylinhmep-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-> ✍ I'm a MEP engineer.</p>
+<p align="center"> ---BIM | Revit MEP---
 
-<br />
-## Contact:
-
-</p>
-> Email: duylinh1639@gmail.com</p>
-> Linkedin: https://www.linkedin.com/in/duylinhmep/</p>
-<br />
-
-## Technical Skills:
-</p>
-
-> * BIM: Revit MEP (Advanced), Navisworks, BIM 360, Clash detection. </p>
-> * Design: AutoCAD, Revit </p>
-> * Standards: TCVN, ASHRAE, NFPA. </p>
-<br />
-</p>
-
-
-
+<p align="center"> Always improving my BIM & MEP design workflow.</p>
