@@ -12,22 +12,12 @@
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
 
-## 📫 Contact:
+## Contact:
 </p>
 
-> ✍ Email: duylinh1639@gmail.com</p>
-
+> Email: duylinh1639@gmail.com</p>
+> Linkedin: https://www.linkedin.com/in/duylinhmep/</p>
 <br />
-
-<p
-  <a href="https://linkedin.com/in/duylinhmep" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="mailto:duylinh1639@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
-
 ## Technical Skills:
 </p>
 
@@ -37,11 +27,7 @@
 
 <br />
 <p>
-  <img src="images/Revit icon.png" width="48px" height="48px"/>
-  <img src="images/Autocad icon.png" width="48px" height="48px"/>
-  <img src="images/ASHRAE icon.png" width="65px" height="65px"/>
-  <img src="images/NFPA icon.png" width="48px" height="48px"/>
-  <img src="images/TCVN icon.png" width="65px" height="100px"/>
+
 </p>
 
 
